@@ -1,0 +1,17 @@
+{
+  "name": "google-sheets-integracao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "googleSheetsService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hubspot/api-client": "^12.0.1",
+    "google-spreadsheet": "^4.1.4",
+    "googleapis": "^144.0.0"
+  }
+}
